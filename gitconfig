@@ -1,3 +1,6 @@
 [user]
 	email = jonas.kaiser.it@gmail.com
 	name = Jonas Kaiser
+[alias]
+	st = status
+	
